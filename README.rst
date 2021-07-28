@@ -1,6 +1,8 @@
-.. image:: https://rawgit.com/ticki/tfs/master/icon.svg
+.. image:: https://github.com/StephenEisner/sfs/blob/main/logo.svg
     :alt: The TFS icon.
     :align: center
+    
+    
 
 ================================
 TFS: Next-generation file system
